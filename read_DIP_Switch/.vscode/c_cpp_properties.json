@@ -1,0 +1,56 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/include",
+                "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/src",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/cores/arduino",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/include",
+                    "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/src",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/cores/arduino",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/HID/src",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/SPI/src",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/SoftwareSerial/src",
+                    "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/Wire/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=60105",
+                "ARDUINO_AVR_NANO",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10808",
+                "__AVR_ATmega328P__",
+                ""
+            ],
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "/home/raizquadrada/.platformio/packages/toolchain-atmelavr/bin/avr-gcc",
+            "compilerArgs": [
+                "-mmcu=atmega328p",
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
