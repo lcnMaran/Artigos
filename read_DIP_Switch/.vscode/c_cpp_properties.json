@@ -8,8 +8,8 @@
         {
             "name": "PlatformIO",
             "includePath": [
-                "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/include",
-                "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/src",
+                "/home/raizquadrada/Documents/PlatformIO/Projects/myArticles/read_DIP_Switch/include",
+                "/home/raizquadrada/Documents/PlatformIO/Projects/myArticles/read_DIP_Switch/src",
                 "/home/raizquadrada/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/home/raizquadrada/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -22,8 +22,8 @@
             "browse": {
                 "limitSymbolsToIncludedHeaders": true,
                 "path": [
-                    "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/include",
-                    "/home/raizquadrada/Documents/PlatformIO/Projects/read_DIP_Switch/src",
+                    "/home/raizquadrada/Documents/PlatformIO/Projects/myArticles/read_DIP_Switch/include",
+                    "/home/raizquadrada/Documents/PlatformIO/Projects/myArticles/read_DIP_Switch/src",
                     "/home/raizquadrada/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/home/raizquadrada/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "/home/raizquadrada/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",

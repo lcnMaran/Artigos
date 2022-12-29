@@ -1,5 +1,5 @@
 /*******************************************************
- *                Leitura de DIP Switch
+ *                Leitura LDR
  * 
  * @author: Luciano Maran
  * @date:   Dezembro de 2022
